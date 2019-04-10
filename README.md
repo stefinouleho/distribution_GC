@@ -12,7 +12,7 @@ Il faut lancer: make run  qui va generer :
 + le fichier /stats/moyenne_atomes.data qui contient la moyenne  des tailles d'atomes dans les graphes molécuaires.
 
 
-Ensuite excecuter le fichier gplt : gnuplot distribution.gplt pour affichier l'histogramme de distribution des tailles de cycles dans les GC.
+l'excecution du fichier distribution.gplt pour afficher l'histogramme de distribution des tailles de cycles dans les GC.
 
 
 Version à jour!
