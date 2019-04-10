@@ -1,0 +1,11 @@
+set style data histograms
+
+plot 'stats/distribution_cycles.data' using 2:xtic(1) linecolor 'red' title 'Distribution des tailles de cycles'
+set term postscript color solid
+set style fill solid
+set xrange [0:]
+set title "Distribution de la taille des cycles des molecules de ChEBI"
+set xlabel "nombre de cycles" 
+set ylabel "nombre de molecules"
+set output '|ps2pdf - stats/distribution_tailles_cycles.pdf'
+replot
