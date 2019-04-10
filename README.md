@@ -1,4 +1,4 @@
-# DISTRIBUTION DES TAILLES DES GRAPHES DE CYCLES & GRAPHES MOLECULAIRES DANS LA BASE DE DONNÉE chebi 
+# DISTRIBUTION DES TAILLES DES GRAPHES DE CYCLES & GRAPHES MOLECULAIRES DANS LA BASE DE DONNÉE CHEBI 
 Similarité sur le graphe de cycles des molécules
 
 - La base de données de molecules utilisée est CHEBI, il faut télécharger le fichier CHebi_Lite.pdf(https://www.dropbox.com/s/7k0ef9rmxvao70q/ChEBI_lite.sdf?dl=0) et le mettre dans le dossier.
