@@ -153,7 +153,7 @@ int main(int argc, char *argv[])
 		liberer_molecule(M[nb_mol]);
 	free(M);
 
-
+	system("gnuplot distribution.gplt");
 
 	exit(0);
 }
